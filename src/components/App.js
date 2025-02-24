@@ -49,18 +49,3 @@ onMove() {
 
 
 export default App;
-    componentDidMount() {
-      
-    }
-
-    render() {
-        return (
-            <div className="playground">
-                {this.renderBallOrButton()}
-            </div>
-        )
-    }
-}
-
-
-export default App;
